@@ -68,8 +68,6 @@ Philippines:
 
 Qatar: 
 
-Russia (Asia): 
-
 Saudi Arabia: 
 
 Singapore: 
@@ -88,7 +86,7 @@ Thailand:
 
 Timor-Leste: 
 
-Turkey (Asia): 
+Turkey: 
 
 Turkmenistan: 
 
