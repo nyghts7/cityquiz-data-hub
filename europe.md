@@ -2,7 +2,7 @@ Akrotiri and Dhekelia:
 
 Åland Islands: See Finland
 
-Albania: https://github.com/nyghts7/albania-populated-places
+Albania: https://github.com/nyghts7/albania
 
 Andorra: https://github.com/nyghts7/andorra
 
