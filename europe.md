@@ -22,7 +22,7 @@ Cyprus:
 
 Czechia: 
 
-Denmark: 
+Denmark: https://github.com/nyghts7/denmark
 
 Estonia: 
 
