@@ -52,7 +52,7 @@ Italy:
 
 Jersey: 
 
-Kosovo: 
+Kosovo: https://github.com/nyghts7/kosovo
 
 Latvia: 
 
