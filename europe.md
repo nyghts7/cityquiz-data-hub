@@ -16,7 +16,7 @@ Bosnia and Herzegovina: https://github.com/nyghts7/bosnia-and-herzegovina
 
 Bulgaria: https://github.com/nyghts7/bulgaria
 
-Croatia: 
+Croatia: https://github.com/nyghts7/croatia
 
 Cyprus: 
 
