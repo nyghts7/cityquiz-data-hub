@@ -8,7 +8,7 @@ Andorra: https://github.com/nyghts7/andorra
 
 Austria: https://github.com/nyghts7/austria
 
-Belarus: 
+Belarus: https://github.com/nyghts7/belarus
 
 Belgium: 
 
