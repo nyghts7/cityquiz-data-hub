@@ -6,7 +6,7 @@ Albania: https://github.com/nyghts7/albania
 
 Andorra: https://github.com/nyghts7/andorra
 
-Austria: 
+Austria: https://github.com/nyghts7/austria
 
 Belarus: 
 
