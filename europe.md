@@ -14,7 +14,7 @@ Belgium:
 
 Bosnia and Herzegovina: https://github.com/nyghts7/bosnia-and-herzegovina
 
-Bulgaria: 
+Bulgaria: https://github.com/nyghts7/bulgaria
 
 Croatia: 
 
